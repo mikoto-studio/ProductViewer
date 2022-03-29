@@ -25,14 +25,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+
+and ![Image](src)
+```
 [Start Demo]("ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player.html")
 [Start Demo]("https://https://mikoto-studio.github.io/ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player.html")
 [Start Demo]("https://127.0.0.1")
 [Start Demo]("https://localhost")
 [Start Demo]("https://localhost:8080")
-
-and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
