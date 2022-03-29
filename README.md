@@ -29,9 +29,9 @@ Syntax highlighted code block
 and ![Image](src)
 ```
 
-[Start Demo]("ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player.html")
+[Start Demo]("ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player")
 
-[Start Demo](https://mikoto-studio.github.io/ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player.html)
+[Start Demo](https://mikoto-studio.github.io/ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/player)
 
 [Start Demo](https://mikoto-studio.github.io/ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/www/127.0.0.1/)
 [Start Demo](https://127.0.0.1)
