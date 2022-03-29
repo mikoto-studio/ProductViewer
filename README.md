@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/mikoto-studio/ProductViewer/actions/workflows/pages/pages-build-deployment/badge.svg?event=deployment)](https://github.com/mikoto-studio/ProductViewer/actions/workflows/pages/pages-build-deployment)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mikoto-studio/ProductViewer/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
