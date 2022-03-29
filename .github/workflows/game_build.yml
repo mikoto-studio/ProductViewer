@@ -1,0 +1,15 @@
+name: Docker Image CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Setting up
+      run: |
+        ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/platform_scripts/bash/setup.ps1
+        ProductViewer/Samples/PixelStreaming/WebServers/SignallingWebServer/platform_scripts/bash/Start_SignallingServer.ps1
+        ProductViewer/MyProject6.exe
+      
